@@ -4,4 +4,4 @@
 
 ### Tema 1
 
-### [Tema 2](tema 2/README.md)
+### [Tema 2](tema 2)
