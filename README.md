@@ -4,4 +4,4 @@
 
 ### Tema 1
 
-### [Tema2] (CarlosMalBel.github.io/tema2)
+### [Tema2] (tema 2)
