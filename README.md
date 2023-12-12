@@ -4,4 +4,4 @@
 
 ### Tema 1
 
-### [Tema2] (tema 2)
+### ![Tema2](tema 2)
