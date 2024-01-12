@@ -12,7 +12,7 @@ Primero tendremos que crear un nuevo blog usando el comando:
 ```
 docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll new blog
 ```
-![Primer-comando](img/1.PNG)
+![Primer-comando](img/1.PNG)    
 Una vez hecho esto se nos creara la carpeta blog y dentro de ella estara todo lo de la configuracion de jekyll:
 ![Lista-blog](img/2.PNG)
 
