@@ -20,7 +20,7 @@ Ya tenemos los archivos necearios para que la pagina funcione pero no queda inst
 ```
 gem "webrick"
 ```
-![Gem](img/3.PNG)
+![Gem](img/3.png)
 
 Ahora ya contamos con todo lo necesario, introducimos el comando:
 ```
