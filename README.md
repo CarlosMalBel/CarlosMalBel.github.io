@@ -3,7 +3,7 @@
 ## Temas:
 
 ### Tema 1
-1. Tarea 1.1 [Git, Github, Markdown y Github Pages](tema 1/talleres)
+1. Tarea 1.1 [Git, Github, Markdown y Github Pages](tema 1/README.md)
 2. Tarea 1.2 [Jekyll con Dockers.](tema 2/Jekyll-docker/jekyll_dockers-Carlos_Mallavia_Belmonte.md)
 
 
