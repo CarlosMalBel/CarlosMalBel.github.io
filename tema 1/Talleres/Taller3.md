@@ -26,7 +26,6 @@ Con `git branch -d primera` borramos la rama.
 
 ## Crea una rama que se llame segunda, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. Entrega el contenido del fichero donde se ha producido el conflicto.
 
-![Img_tarea4-6](Img_Talleres/tarea4-6.PNG)
 - Pero no me da nigun conflicto
 
 ## en el punto anterior y sincroniza la rama segunda en el remoto. Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
