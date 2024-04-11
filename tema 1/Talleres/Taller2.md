@@ -26,7 +26,7 @@ Incluso podemos usar:
 [Enlace al Taller 1]
 
 Incluso podemos meter una imagen si la guardamos en una carpeta como con esta
-![Logo github](img/GitHub.png)
+![Logo github](tema 1/Talleres/Img_Talleres/GitHub.png)
 
 
 Por ultimo podemos poner una tabla separado cada columna con tres guiones debajo de cada una y las celdas con el simbolo de tuberia:
