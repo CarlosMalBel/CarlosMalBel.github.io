@@ -23,7 +23,7 @@ Incluso podemos usar:
 
 [Enlace a la pagina principal de Github](https://github.com)
 
-[Enlace al Taller 1](Talleres/Taller1.md)
+[Enlace al Taller 1](Taller1.md)
 
 Incluso podemos meter una imagen si la guardamos en una carpeta como con esta
 
