@@ -8,7 +8,7 @@
 
 
 ### Tema 2
- 1. Tarea 2.1 [Instalacion y configuración CMS: generador páginas estáticas Jekyll](tema 2/README.md)  
+ 1. Tarea 2.1 [Instalacion y configuración CMS: generador páginas estáticas Jekyll](tema 2/TAREA2.1/README.md)  
  2. Tarea 2.2    
  1.1 [Info de la pagina web (entrega 12/12)](tema 2/README.md)
 
