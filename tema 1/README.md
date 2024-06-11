@@ -6,6 +6,3 @@
 - [Taller 4](Talleres/Taller4.md)
 - [Taller 5](Talleres/Taller5.md)
 
-# Ejercicio 1.3:
-
-- [Actividad 1.3 Servidor LAMP](Ejer1.3/ejer1.3.md)
