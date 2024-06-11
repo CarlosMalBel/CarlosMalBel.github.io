@@ -22,4 +22,4 @@
 ![Variables editadas](img/1.PNG)
 
 - Ahora con esto cambiado, introducimos el comando ```docker compose up -d``` para inciar los servicios y al igual que con las otras partes, para entrar en wordpress introducimos `http://ip_de_la_maquina/wp-admin`:
-  ![5](5.PNG)
+  ![5](img/5.PNG)
