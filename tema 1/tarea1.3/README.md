@@ -10,7 +10,7 @@
 
 ### Parte 2: Instalacion de Wordpress.
 
-- En esta parte para instalar Wordpress tambien seguimos el [PDF con las instruciones](LAMP y LEMP version 1) y al final hacemos lo mismo que en la parte 1, introducimos en el buscador `http://ip_del_servidor/wp-admin` y nos saldra:
+- En esta parte para instalar Wordpress tambien seguimos el [PDF con las instruciones](tema 1/tarea1.3/LAMP y LEMP version 1.pdf) y al final hacemos lo mismo que en la parte 1, introducimos en el buscador `http://ip_del_servidor/wp-admin` y nos saldra:
   [2](img/2.PNG)
 
 - En esta parte le damos a donde dice vamos y nos saldra las opciones para crear el sitio wordpress:
