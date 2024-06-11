@@ -18,7 +18,7 @@
 
   ### Parte 3: Instalación de Wordpress usando contenedores Docker y Docker Compose.
 
-  - En esta ultima parte tenemos que primero instalar docker mediante los comandos recogidos en: [Tutorial para instalar docker](Instalacion docker y docker-compose linux 202324 UBUNTU.txt), una vez instalado dockers clonamos el repositorio de [Git-hub](https://github.com/CarlosMalBel/docker-compose-playground) e iniciamos el ejemplo número 15, no sin antes cambiar en el `.env` de "alumno200" al numero que corresponda segun el usuario del dominio, en mi caso el 21. Por lo que quedaria de tal forma:
+  - En esta ultima parte tenemos que primero instalar docker mediante los comandos recogidos en: [Tutorial para instalar docker](tema 1/tarea1.3/Instalacion docker y docker-compose linux 202324 UBUNTU.txt), una vez instalado dockers clonamos el repositorio de [Git-hub](https://github.com/CarlosMalBel/docker-compose-playground) e iniciamos el ejemplo número 15, no sin antes cambiar en el `.env` de "alumno200" al numero que corresponda segun el usuario del dominio, en mi caso el 21. Por lo que quedaria de tal forma:
 [Variables editadas](img/1.PNG)
 
 - Ahora con esto cambiado, introducimos el comando ```docker compose up -d``` para inciar los servicios y al igual que con las otras partes, para entrar en wordpress introducimos `http://ip_de_la_maquina/wp-admin`:
