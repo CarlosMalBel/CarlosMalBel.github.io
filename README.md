@@ -5,7 +5,7 @@
 ### Tema 1
 1. Tarea 1.1 [Talleres](tema 1/README.md)
 2. Tarea 1.2 [Jekyll con Dockers.](tema 2/Jekyll-docker/jekyll_dockers-Carlos_Mallavia_Belmonte.md)
-3. Tarea 1.3 [Servidor LAMP](tema 1/Ejer1.3/ejer1.3.md)
+3. Tarea 1.3 [Servidor LAMP](tema 1/tarea1.3/README.md)
 
 
 
