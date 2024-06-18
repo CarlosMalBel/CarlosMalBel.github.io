@@ -14,4 +14,5 @@
  2. Tarea 2.2    
  1.1 [Info de la pagina web (entrega 12/12)](tema 2/README.md)
 
- 
+ ### Tarea Crud:
+ [Aplicacion crud](https://github.com/CarlosMalBel/crud-php)
